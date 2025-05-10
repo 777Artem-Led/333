@@ -1,4 +1,4 @@
 # 333
 Шпаргалки по командам.
 Команда select:
-!{all text}
+![alt text](http://url/to/img.png)
