@@ -5,3 +5,5 @@
 ![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_15-45-27.png)
 Команда And и Or: 
 ![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_15-56-56.png)
+Команда Order by:
+![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_16-18-02.png)
