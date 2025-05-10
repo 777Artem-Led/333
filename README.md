@@ -17,3 +17,5 @@
 ![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_16-55-58.png)
 Команда delete:
 ![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_17-12-25.png)
+Команда insert:
+![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_17-23-37.png)
