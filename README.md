@@ -8,4 +8,4 @@
 Команда Order by:
 ![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_16-18-02.png)
 Команда Limit и Offset:
-![Команда select:](https://github.com/777Artem-Led/333/commit/3ca5c26bf951e901f48a4e5bbde53ca1c60e7bd2)
+![Команда select:](https://github.com/777Artem-Led/333/blob/main/2025-05-10_16-24-33.png)
