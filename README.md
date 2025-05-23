@@ -28,6 +28,9 @@ INSERT INTO users (id, first_name, last_name, birthday)
 VALUES (1,'Дмитрий','Иванов',NULL),
 (2,'Анатолий','Белый',NULL),
 (3,'Денис','Давыдов','1995-09-08');
+
+
+
 
 create table orders (
 id int unsigned not null primary key auto_increment,
